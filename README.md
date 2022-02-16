@@ -1,8 +1,6 @@
 <!-- Badge for License -->
-<div align="right" style="width:300px; high:300px>
-
-  [![](https://codemycareer.org/wp-content/uploads/2020/04/0_GePc7lo4CF4A3guP.png)](./LICENSE)
-
+<div align="center">
+  <img src="https://uploads-ssl.webflow.com/60d29cc33f302e8be91cf0e2/60e828b528b05b0b34e7be70_5fa8ee0b97a884356c11cd69_meta%2520image%2520(42).jpeg" alt="LeetCode" height="150px" >
 </div>
 
 ### LeetCode Algorithm
@@ -10,4 +8,4 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1945|[Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [C++](./algorithms/cpp/leetcode/sumOfDigitsOfStringAfterConvert/SumOfDigitsOfStringAfterConvert.cpp)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [JavaScript](./algorithms/cpp/leetcode/sumOfDigitsOfStringAfterConvert/SumOfDigitsOfStringAfterConvert.cpp)|Easy|
