@@ -1,6 +1,9 @@
+<!-- Badge for License -->
+<div align="right" style="width:300px; high:300px>
 
-LeetCode
-========
+  [![](https://codemycareer.org/wp-content/uploads/2020/04/0_GePc7lo4CF4A3guP.png)](./LICENSE)
+
+</div>
 
 ### LeetCode Algorithm
 
