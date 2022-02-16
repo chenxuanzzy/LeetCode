@@ -8,4 +8,4 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|13|[Roman to Integer](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [JavaScript](./algorithms/cpp/leetcode/sumOfDigitsOfStringAfterConvert/SumOfDigitsOfStringAfterConvert.cpp)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./algorithms/cpp/leetcode/sumOfDigitsOfStringAfterConvert/SumOfDigitsOfStringAfterConvert.cpp)|Easy|
