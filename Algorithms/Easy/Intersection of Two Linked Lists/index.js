@@ -12,6 +12,7 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function (headA, headB) {
+  if (!headA || !headB) null;
   let a = headA;
   let b = headB;
   while (a !== b) {
@@ -20,3 +21,5 @@ var getIntersectionNode = function (headA, headB) {
   }
   return a;
 };
+//Time Complexity: O(a+b)
+//Space Complexity: O(1)
