@@ -14,3 +14,4 @@
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](./Algorithms/Easy/Intersection%20of%20Two%20Linked%20Lists/index.js)|Easy| Linked-list |
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [JavaScript](./Algorithms/Easy/Isomorphic%20Strings/index.js)|Easy| Array |
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./Algorithms/Easy/Contains%20Duplicate/index.js)|Easy| Array |
+|242|[Vaild Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](./Algorithms/Easy/Vaild%20Anagram/index.js)|Easy| Array |
