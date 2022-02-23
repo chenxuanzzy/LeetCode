@@ -16,5 +16,5 @@ var isHappy = function (n) {
   }
   return n == 1;
 };
-//Time Complexity: O(nlogn)
-//Space Complexity: O(1)
+//Time Complexity: O(logn)
+//Space Complexity: O(logn)
