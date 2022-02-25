@@ -3,20 +3,17 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function (s) {
-  let k = 0;
-  let maxLength = 0;
+  let arr = [];
+  let max = 0;
   for (let i = 0; i < s.length; i++) {
-    for (let j = k; j < i; j++) {
-      if (s[i] === s[j]) {
-        k = j + 1;
-        break;
-      }
+    let index = arr.indexOf(s[i]);
+    if (index !== -1) {
+      arr.splice(0, index + 1);
     }
-    if (i - k + 1 > maxLength) {
-      maxLength = i - k + 1;
-    }
+    arr.push(s.charAt(i));
+    max = Math.max(arr.length, max);
   }
-  return maxLength;
+  return max;
 };
-//Time Complexity: O(n^2)
-//Space Complexity: O(1)
+//Time Complexity: O(n)
+//Space Complexity: O(n)
