@@ -4,22 +4,20 @@
  * @return {number}
  */
 var minSubArrayLen = function (target, nums) {
-  let min = Infinity;
-  let left = 0;
-  let right = -1;
-  let sum = 0;
-  while (right < nums.length) {
-    if (sum >= target) {
-      min = Math.min(min, right - left + 1);
-      sum -= nums[left];
-      left++;
-    } else {
-      right++;
-      sum += nums[right];
+  let windowSum = 0;
+  let minLength = Infinity;
+  let windowStart = 0;
+
+  for (let windowEnd = 0; windowEnd < nums.length; windowEnd++) {
+    windowSum += nums[windowEnd];
+    while (windowSum >= target) {
+      minLength = Math.min(minLength, windowEnd - windowStart + 1);
+
+      windowSum -= nums[windowStart];
+      windowStart += 1;
     }
   }
-  return min === Infinity ? 0 : min;
+  return (minLength = minLength === Infinity ? 0 : minLength);
 };
-
 //Time Complexity: O(n)
 //Space Complexity: O(1)
