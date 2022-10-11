@@ -8,7 +8,7 @@
 
 | # | Title | Solution | Difficulty | About |
 |---| ----- | -------- | ---------- | ------- | 
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [JavaScript](./JavaScriptAlgorithms/Easy/Two%20Sum/index.js)|Easy| Array |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [JavaScript](./JavaScriptLeetCode/Easy/Two%20Sum/index.js)|Easy| Array |
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./Algorithms/Medium/Longest%20Substring%20Without%20Repeating%20Characters/index.js)|Medium| Sliding Window |
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./Algorithms/Easy/Intersection%20of%20Two%20Linked%20Lists/index.js)|Easy| Linked-list |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./Algorithms/Easy/Merge%20Two%20Sorted%20Lists/index.js)|Easy| Linked-list |
