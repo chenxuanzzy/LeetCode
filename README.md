@@ -12,6 +12,7 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./JavaScriptLeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters/index.js)|Medium| Sliding Window |
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./JavaScriptLeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists/index.js)|Easy| Linked-list |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./JavaScriptLeetCode/Easy/Merge%20Two%20Sorted%20Lists/index.js)|Easy| Linked-list |
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./JavaScriptLeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock/index.js)|Easy| Array |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](./JavaScriptLeetCode/Easy/Linked%20List%20Cycle)|Easy| Linked-list |
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](./JavaScriptLeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists/index.js)|Easy| Linked-list |
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [JavaScript](./JavaScriptLeetCode/Easy/Isomorphic%20Strings/index.js)|Easy| Array |
