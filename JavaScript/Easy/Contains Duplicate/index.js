@@ -6,14 +6,13 @@
 //Presorting Solution
 var containsDuplicate = function (nums) {
   nums.sort((a, b) => a - b);
-  for (let i = 0; i < num.length - 1; i++) {
+  for (let i = 0; i < nums.length; i++) {
     if (nums[i] === nums[i + 1]) {
       return true;
     }
   }
   return false;
 };
-
 //Time Complexity: O(n log n)
 //Space Complexity: O(log n)
 
