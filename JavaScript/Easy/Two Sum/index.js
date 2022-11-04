@@ -14,5 +14,25 @@ var twoSum = function (nums, target) {
   }
 };
 
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
+// Force Solution
+
+var twoSum2 = function (nums, target) {
+  const map = {};
+  for (let i = 0; i < nums.length; i++) {
+    let count = target - nums[i];
+    if (map[count] !== undefined) {
+      return [i, map[count]];
+    } else {
+      map[nums[i]] = i;
+    }
+  }
+  return [];
+};
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+// Hash Table
+
 //Time Complexity: O(n^2)
 //Space Complexity: O(1)
