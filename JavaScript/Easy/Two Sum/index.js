@@ -33,6 +33,3 @@ var twoSum2 = function (nums, target) {
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 // Hash Table
-
-//Time Complexity: O(n^2)
-//Space Complexity: O(1)
