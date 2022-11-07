@@ -2,7 +2,6 @@
  * @param {number[]} nums
  * @return {number}
  */
-let nums = [11, 13, 15, 17];
 var findMin = function (nums) {
   let left = 0;
   let right = nums.length - 1;
@@ -18,6 +17,6 @@ var findMin = function (nums) {
   }
   return nums[left];
 };
-findMin(nums);
 //Time Complexity: O(log n)
 //Space Complexity: O(1)
+//Binary Search
