@@ -8,7 +8,7 @@
 
 | # | Title | Solution | Difficulty | About | Note |
 |---| ----- | -------- | ---------- | ------- | ------- | 
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [JavaScript](./JavaScript/Easy/Two%20Sum/index.js)|Easy| Array |https://medium.com/@cyndi_caho/leetcode-%E7%B6%93%E5%85%B8-75-%E9%A1%8C-01-two-sum-140302aad57c | 
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [JavaScript](./JavaScript/Easy/Two%20Sum/index.js)|Easy| Array |[Note](https://medium.com/@cyndi_caho/leetcode-%E7%B6%93%E5%85%B8-75-%E9%A1%8C-01-two-sum-140302aad57c) | 
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./JavaScript/Medium/Longest%20Substring%20Without%20Repeating%20Characters/index.js)|Medium| Sliding Window |
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./JavaScript/Easy/Intersection%20of%20Two%20Linked%20Lists/index.js)|Easy| Linked-list |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./JavaScript/Easy/Merge%20Two%20Sorted%20Lists/index.js)|Easy| Linked-list |
