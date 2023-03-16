@@ -15,6 +15,7 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./JavaScript/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock/index.js)|Easy| Array | [Note](https://medium.com/@cyndi_caho/leetcode-%E7%B6%93%E5%85%B8-75-%E9%A1%8C-02-best-time-to-buy-and-sell-stock-1e53569924c6)
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](./JavaScript/Easy/Linked%20List%20Cycle)|Easy| Linked-list |
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](./JavaScript/Easy/Intersection%20of%20Two%20Linked%20Lists/index.js)|Easy| Linked-list |
+|191|[Number of 1 bits](https://leetcode.com/problems/number-of-1-bits) | [JavaScript](./JavaScript/Easy/Number%20of%201%20Bits/index.js)|Easy| Array | [Note](https://medium.com/@cyndi_caho/leetcode-%E7%B6%93%E5%85%B8-75-%E9%A1%8C-number-of-1-bits-191-d6b3d01b3a18)
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [JavaScript](./JavaScript/Easy/Isomorphic%20Strings/index.js)|Easy| Array |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./JavaScript/Easy/Reverse%20Linked%20List/index.js)|Easy| Linked-list |
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [JavaScript](./JavaScript/Medium/Minimum%20Size%20Subarray%20Sum/index.js)|Medium| Sliding Window |
